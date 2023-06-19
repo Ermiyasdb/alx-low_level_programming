@@ -1,2 +1,13 @@
-#!/bin/bash
-puts (Programming is like building a multilingual puzzle;)
+#include <studio.h>
+
+/**
+ * main - entry point 
+ *
+ * return: always 0
+ */
+int main(void)
+{
+puts("programming is like building a multilingual puzzle")"
+return (0);
+
+}
