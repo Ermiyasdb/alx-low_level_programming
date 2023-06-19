@@ -1,4 +1,5 @@
-#include <studio.h>
+#!/bin/bash
+#include <stdio.h>
 /**
  * main - main block 
  *
